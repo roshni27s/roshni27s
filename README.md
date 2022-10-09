@@ -4,9 +4,7 @@
 
 - 👩‍💻 I'm a former **Product Intern** at **Adobe**
 
-- 🌱 I’m currently practising **Data Structures and Algorithms**
-
-- 👯 I’m exploring **Machine Learning and Android Development**
+- 🌱 I’m currently exploring **Web Development**
 
 - 📫 How to reach me **roshni.rx@gmail.com**
 
