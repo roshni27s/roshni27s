@@ -1,6 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" width="30" height="40">Hi, I'm Roshni Singh</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshni27s&label=Profile%20views&color=0e75b6&style=flat" alt="roshni27s" /> </p>
 
 - 👩‍💻 I'm a former **Product Intern** at **Adobe**
 
