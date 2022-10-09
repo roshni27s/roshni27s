@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshni27s&label=Profile%20views&color=0e75b6&style=flat" alt="roshni27s" /> </p>
 
-- 👩‍💻 I'm a **Product Intern** at **Adobe**
+- 👩‍💻 I'm a former **Product Intern** at **Adobe**
 
 - 🌱 I’m currently practising **Data Structures and Algorithms**
 
